@@ -4,19 +4,18 @@
 
 This template ships with the main React and Storybook configuration files you'll need to get up and running fast.
 
-# Fame-UI Componet Libarary 
+[! [Demo Site]( https://sydhsn.github.io/fame-ui/)]
+<hr/>
+### Run Storybook 
 
-# [! [Demo Site Link]( https://sydhsn.github.io/fame-ui/)]  
-
-### Development 
 #### yarn install 
-#### yarn start
+#### yarn storybook
 
-### Build 
-#### yarn build
+
+### Build Storybook 
+#### yarn docs:build
 
 ### designed and developed by saiyadhusain
 [![npm version](https://img.shields.io/npm/v/@saiyadhusain/fame-ui)](https://github.com/sydhsn/fame-ui)
-
 
 [![demo site](https://img.shields.io/badge/demo-site-green.svg)](https://sydhsn.github.io/fame-ui/)
