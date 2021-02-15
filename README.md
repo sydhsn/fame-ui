@@ -6,7 +6,7 @@ This template ships with the main React and Storybook configuration files you'll
 
 # Fame-UI Componet Libarary 
 
-# [! [Demo Site Link]( https://sydhsn.github.io/Fame-UI/?path=/story/fancy-button-component--page)]  
+# [! [Demo Site Link]( https://sydhsn.github.io/Fame-UI/?path=/story/fame-ui-component--page)]  
 
 ### Development 
 #### yarn install 
