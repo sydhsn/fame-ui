@@ -3,7 +3,7 @@ import Dropdown from '../components/dropdown';
 
 // eslint-disable-next-line import/no-anonymous-default-export
 export default {
-    title:'Fane-ui/Dropdown',
+    title:'Fame-ui/Dropdown',
     component:Dropdown
 }
 

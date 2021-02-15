@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 import Input from '../components/Inputs';
 
 export default {
-  title: 'Fane-ui/Input',
+  title: 'Fame-ui/Input',
   component: Input,
   argTypes: {
     // controlled value prop
@@ -33,19 +33,19 @@ const Template = args => {
 };
 
 export const Default = Template.bind({});
-Default.args ={
-    type:"text",
-    value:'Hello'
+Default.args = {
+  type: "text",
+  value: 'Hello'
 }
 
 export const Number = Template.bind({});
-Number.args ={
-    type:"number",
-    value:'1234'
+Number.args = {
+  type: "number",
+  value: '1234'
 }
 
 export const Password = Template.bind({});
 Password.args = {
-    type:"password",
-    value:'1234'
+  type: "password",
+  value: '1234'
 };

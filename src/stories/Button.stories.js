@@ -4,7 +4,7 @@ import Button from './../components/button/';
 
 // eslint-disable-next-line import/no-anonymous-default-export
 export default {
-    title:'Fane-ui/Button',
+    title:'Fame-ui/Button',
     component:Button
 }
 
